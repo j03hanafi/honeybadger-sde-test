@@ -1,0 +1,7 @@
+2023/03/16 17:19:10 Starting server on port :8080
+2023/03/16 17:19:19 Received request
+2023/03/16 17:19:19 Alert pushed
+2023/03/16 17:19:22 Received request
+2023/03/16 17:19:22 failed to send Slack alert
+2023/03/16 17:19:25 Received request
+2023/03/16 17:19:25 Payload is not a Spam Notification
